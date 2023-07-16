@@ -33,6 +33,7 @@ const removeLinkedList = (head, target) => {
   }
   return head;
 };
+// added test
 const printLinkedlist = (head) => {
   let current = head;
   while (current !== null) {
